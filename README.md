@@ -47,7 +47,6 @@ Currently improving my technical skills through hands-on projects, continuous le
 - MVC Architecture
 - Responsive Web Design
 - Relational Database Design
-- Git Version Control
 - Frontend and Backend Integration
 
 ---
