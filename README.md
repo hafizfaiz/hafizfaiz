@@ -1,119 +1,118 @@
-# Hi, I'm Hafizfaiz 👋
+Hafizh Faiz Fadhlurrahman
 
-### Junior Full Stack Developer
+Junior Full Stack Developer
 
-Building modern, responsive, and functional web applications.
+Building responsive, functional, and maintainable web applications.
 
-[![GitHub followers](https://img.shields.io/github/followers/hafizfaiz?style=flat&logo=github&label=Followers)](https://github.com/hafizfaiz)
-[![Profile Views](https://komarev.com/ghpvc/?username=hafizfaiz&style=flat&color=blue)](https://github.com/hafizfaiz)
+GitHub · LinkedIn
 
-</div>
+About Me
 
----
+I'm a Junior Full Stack Developer interested in designing, developing, and maintaining web applications from frontend to backend.
 
-## 👨‍💻 About Me
+I focus on writing clean code, building responsive user interfaces, developing backend functionality, and managing relational databases.
 
-Hello! I'm **Hafizh Faiz Fadhlurrahman**, a Junior Full Stack Developer
-interested in building web applications from frontend to backend.
+Currently improving my skills through hands-on projects, continuous learning, and practical software development.
 
-I enjoy learning new technologies, solving problems,
-and developing clean, functional, and user-friendly applications.
+Technical Skills
 
-- 💻 Focused on Full Stack Web Development
-- 🎨 Interested in modern and responsive UI development
-- ⚙️ Building backend applications with PHP and Laravel
-- 🗄️ Working with relational databases
-- 🌱 Continuously improving my programming skills
-- 🚀 Passionate about turning ideas into real applications
+Frontend Development
 
----
+HTML5 — Semantic structure and web page development
 
-## 🛠️ Tech Stack
+CSS3 — Responsive layouts and styling
 
-### Frontend Development
+JavaScript — DOM manipulation, asynchronous programming, and application logic
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+React — Component-based UI development and state management
+
+Backend Development
+
+PHP — Server-side programming and application logic
+
+Laravel — MVC architecture, routing, middleware, authentication, and REST API development
+
+Database Management
+
+MySQL — Relational database design, queries, joins, and CRUD operations
+
+PostgreSQL — Relational database management and SQL queries
+
+Development Concepts
+
+Full Stack Web Development
+
+RESTful API
+
+CRUD Operations
+
+MVC Architecture
+
+Responsive Web Design
+
+Relational Database Design
+
+Git Version Control
+
+Frontend and Backend Integration
+
+Tools & Technologies
+
+Category
+
+Tools
+
+Code Editor
+
+Visual Studio Code
+
+Version Control
+
+Git, GitHub
+
+Local Development
+
+Laragon
+
+Containerization
+
+Docker
+
+API Testing
+
+Postman
+
+Frontend
+
+React, HTML, CSS, JavaScript
+
+Backend
+
+PHP, Laravel
+
+Database
+
+MySQL, PostgreSQL
+
+GitHub Statistics
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hafizfaiz&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub Statistics" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizfaiz&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
-### Backend Development
+Current Focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
+Improving frontend development with React.
+
+Strengthening backend development with Laravel.
+
+Building RESTful APIs and database-driven applications.
+
+Learning better software architecture and development practices.
+
+Developing practical full stack projects.
+
+<p align="center">
+  <i>Learning continuously. Building consistently. Improving every day.</i>
 </p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 💼 Development Focus
-
-| Area | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | PHP, Laravel |
-| Database | MySQL, PostgreSQL |
-| Tools | Git, GitHub, VS Code, Laragon, Docker, Postman |
-
----
-
-## 🚀 Featured Projects
-
-Here are some of the projects I'm working on and developing.
-
-<!-- Replace these examples with your actual repositories -->
-
-- **Web Application** — Responsive web application.
-- **REST API** — Backend development using PHP and Laravel.
-- **Full Stack Project** — Frontend and backend integration.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=hafizfaiz&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizfaiz&layout=compact&hide_border=true&theme=default" />
-
-</div>
-
-<div align="center">
-
-<img width="90%"
-src="https://streak-stats.demolab.com?user=hafizfaiz&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 My Goal
-
-To grow as a Full Stack Developer by continuously learning,
-building real-world projects, and writing better code.
-
-I believe that consistency, curiosity, and continuous improvement
-are the keys to becoming a better developer.
-
----
-
-<div align="center">
-
-### Let's Build Something Great Together! 🚀
-
-**Thanks for visiting my profile!**
-
-</div>
