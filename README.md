@@ -78,7 +78,7 @@ Inventory and stock management application built with Laravel and React.
 ### Portfolio
 Personal portfolio website showcasing development projects and skills.
 
-[View Repository](https://github.com/hafizfaiz/Portfolio)
+[View Repository](https://hafizfaiz.github.io/Portfolio/)
 
 ### More Projects
 Explore my repositories and development activities.
