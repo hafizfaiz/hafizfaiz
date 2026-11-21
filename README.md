@@ -63,7 +63,7 @@ and developing clean, functional, and user-friendly applications.
 | Frontend | HTML, CSS, JavaScript, React |
 | Backend | PHP, Laravel |
 | Database | MySQL, PostgreSQL |
-| Tools | Git, GitHub, VS Code |
+| Tools | Git, GitHub, VS Code, Laragon, Docker, Postman |
 
 ---
 
