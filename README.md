@@ -13,7 +13,7 @@ Building modern, responsive, and functional web applications.
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Hafiz Faiz**, a Junior Full Stack Developer
+Hello! I'm **Hafizh Faiz Fadhlurrahman**, a Junior Full Stack Developer
 interested in building web applications from frontend to backend.
 
 I enjoy learning new technologies, solving problems,
