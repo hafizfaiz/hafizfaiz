@@ -1,118 +1,117 @@
-Hafizh Faiz Fadhlurrahman
+<div align="center">
 
-Junior Full Stack Developer
+# Hafizh Faiz Fadhlurrahman
+
+**Junior Full Stack Developer**
 
 Building responsive, functional, and maintainable web applications.
 
-GitHub · LinkedIn
+[![GitHub](https://img.shields.io/badge/GitHub-hafizfaiz-181717?style=flat&logo=github)](https://github.com/hafizfaiz)
+[![Followers](https://img.shields.io/github/followers/hafizfaiz?style=flat&label=Followers)](https://github.com/hafizfaiz)
+![Profile Views](https://komarev.com/ghpvc/?username=hafizfaiz&style=flat&label=Profile+Views)
 
-About Me
+</div>
+
+---
+
+## About Me
 
 I'm a Junior Full Stack Developer interested in designing, developing, and maintaining web applications from frontend to backend.
 
 I focus on writing clean code, building responsive user interfaces, developing backend functionality, and managing relational databases.
 
-Currently improving my skills through hands-on projects, continuous learning, and practical software development.
+Currently improving my technical skills through hands-on projects, continuous learning, and practical software development.
 
-Technical Skills
+---
 
-Frontend Development
+## Technical Skills
 
-HTML5 — Semantic structure and web page development
+**Frontend Development**
+- HTML5 — Semantic structure and web page development.
+- CSS3 — Responsive layouts and styling.
+- JavaScript — DOM manipulation, asynchronous programming, and application logic.
+- React — Component-based UI development and state management.
 
-CSS3 — Responsive layouts and styling
+**Backend Development**
+- PHP — Server-side programming and application logic.
+- Laravel — MVC architecture, routing, middleware, authentication, and REST API development.
 
-JavaScript — DOM manipulation, asynchronous programming, and application logic
+**Database Management**
+- MySQL — Relational database design, SQL queries, joins, and CRUD operations.
+- PostgreSQL — Relational database management and SQL queries.
 
-React — Component-based UI development and state management
+**Development Concepts**
+- Full Stack Web Development
+- RESTful API
+- CRUD Operations
+- MVC Architecture
+- Responsive Web Design
+- Relational Database Design
+- Git Version Control
+- Frontend and Backend Integration
 
-Backend Development
+---
 
-PHP — Server-side programming and application logic
+## Tools & Technologies
 
-Laravel — MVC architecture, routing, middleware, authentication, and REST API development
+| Category | Tools |
+|---|---|
+| Code Editor | Visual Studio Code |
+| Version Control | Git, GitHub |
+| Local Development | Laragon |
+| Containerization | Docker |
+| API Testing | Postman |
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | PHP, Laravel |
+| Database | MySQL, PostgreSQL |
 
-Database Management
+---
 
-MySQL — Relational database design, queries, joins, and CRUD operations
+## Featured Projects
 
-PostgreSQL — Relational database management and SQL queries
+### GudangKu
+Inventory and stock management application built with Laravel and React.
 
-Development Concepts
+**Technologies:** PHP, Laravel, React
 
-Full Stack Web Development
+[View Repository](https://github.com/hafizfaiz/GudangKu)
 
-RESTful API
+### Portfolio
+Personal portfolio website showcasing development projects and skills.
 
-CRUD Operations
+[View Repository](https://github.com/hafizfaiz/Portfolio)
 
-MVC Architecture
+### More Projects
+Explore my repositories and development activities.
 
-Responsive Web Design
+[View All Repositories](https://github.com/hafizfaiz?tab=repositories)
 
-Relational Database Design
+---
 
-Git Version Control
+## GitHub Statistics
 
-Frontend and Backend Integration
+<div align="center">
 
-Tools & Technologies
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=hafizfaiz&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub Statistics" />
 
-Category
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizfaiz&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 
-Tools
+</div>
 
-Code Editor
+---
 
-Visual Studio Code
+## Current Focus
 
-Version Control
+- Improving frontend development with React.
+- Strengthening backend development with Laravel.
+- Building RESTful APIs and database-driven applications.
+- Learning better software architecture and development practices.
+- Developing practical full stack projects.
 
-Git, GitHub
+---
 
-Local Development
+<div align="center">
 
-Laragon
+*Learning continuously. Building consistently. Improving every day.*
 
-Containerization
-
-Docker
-
-API Testing
-
-Postman
-
-Frontend
-
-React, HTML, CSS, JavaScript
-
-Backend
-
-PHP, Laravel
-
-Database
-
-MySQL, PostgreSQL
-
-GitHub Statistics
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hafizfaiz&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub Statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizfaiz&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
-Current Focus
-
-Improving frontend development with React.
-
-Strengthening backend development with Laravel.
-
-Building RESTful APIs and database-driven applications.
-
-Learning better software architecture and development practices.
-
-Developing practical full stack projects.
-
-<p align="center">
-  <i>Learning continuously. Building consistently. Improving every day.</i>
-</p>
+</div>
